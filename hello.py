@@ -1,3 +1,2 @@
-#! python
-
-print "Hello, Python"
+#!python3
+print("Hello World!")
